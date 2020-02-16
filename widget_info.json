@@ -1,0 +1,11 @@
+{"plugin":
+	{
+		"info":
+		{
+			"name":"Awards",
+			"folder":"awards",
+			"modulname":"awards"
+		},
+		"widgets":["widget_awards_functions.php"]
+	}
+}
