@@ -9,8 +9,8 @@ function goBack() {
 $modulname	 	= 	"awards"; 							// name to uninstall
 $plugin_table 	= 	"awards"; 							// name of the mysql table
 $str			=	"Awards"; 							// name of the plugin
-$navi_name		=	"{[de]}Awards{[en]}awards";			// name of the Navi
-$description	=	"Mit diesem Plugin könnt ihr eure Awards mit Slider und Page anzeigen lassen."; 	// description of the plugin
+$navi_name		=	"{[de]}Awards{[en]}Awards{[it]}Premi";			// name of the Navi
+$description	=	"{[de]}Con questo plugin è possibile visualizzare i premi con Slider e Page.{[it]}"; 	// description of the plugin
 $admin_file 	=	"admin_awards";						// administration file
 $activate 		=	"1";								// plugin activate 1 yes | 0 no
 $author			=	"T-Seven";							// author
